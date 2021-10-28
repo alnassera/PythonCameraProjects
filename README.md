@@ -1,3 +1,3 @@
 # PythonCameraProjects
 
-You can like draw on the camera lmao, written at SpenceHacks with Kyle Sacks.
+You can  draw on the camera, written at SpenceHacks with Kyle Sacks.
